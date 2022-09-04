@@ -13,11 +13,11 @@
 
   #### INSTALL TOOL ON TERMUX
 ```python
-.
-.
-.
- 🙂.
- .
+apt update && apt upgrade 
+pkg install python 
+pip install requests
+pip install mechanize
+pkg install git 
  .
  
 ```
