@@ -18,13 +18,13 @@ pkg install python
 pip install requests
 pip install mechanize
 pkg install git 
- .
+git clone https://github.com/NazmulHossain1623/CL9N.git
  
 ```
 #### RUN SCRIPT
 ```python
- .🙂
- .🙂
+cd CL9N
+python CL9N.py
 ```
 
 
